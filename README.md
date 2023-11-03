@@ -1,3 +1,3 @@
 # Software-Version-Control
 Distributed Git
-This repository consists of various searching and sorting algorithms.
+The repository consists of various searching and sorting algorithms.
